@@ -1,0 +1,9 @@
+{
+  "name": "LiveClipper",
+  "short_name": "LiveClipper",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0f16",
+  "theme_color": "#10131b",
+  "icons": []
+}
