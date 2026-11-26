@@ -1,5 +1,5 @@
 // Set this to your deployed HTTPS backend URL, e.g. https://api.example.com
-const API_BASE = "const API_BASE = "https://live-clipper-1.onrender.com";";
+const API_BASE = "const API_BASE = "https://live-clipper-1.onrender.com/docs";";
 const $ = id => document.getElementById(id);
 async function poll(id) {
   for (;;) {
